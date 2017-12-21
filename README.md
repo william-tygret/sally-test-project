@@ -2,13 +2,13 @@
 
 In the assets folder you will find the Adobe XD file and the screenshots (if you don't habe Adobe XD) for your assignment.
 
-Please create a new branch with your name and push your updates in there.
+Clone the repo, push your updates and send us the link to your repo.
 
 Your assignment consists out of two tasks. The first one is design oriented while the second one is more development oriented.
 
 ## Part 1: Design / Critique
 
-Inside the Adobe XD file you will find a window called Observation. If you don't have Adobe XD you can open `./assets/Observation.png`. This is a UI component called Driver Card. We would love to see your 'designing skills'. But actually you don't have to design anything. Please create a file named `critique.md` in the root folder of your branch and write whatever you think about the Driver Card. Tell us what you find good and what you would change. Give us an example on how your artistic side works.
+Inside the Adobe XD file you will find a window called Observation. If you don't have Adobe XD you can open `./assets/Observation.png`. This is a UI component called Driver Card. We would love to see your 'designing skills'. But actually you don't have to design anything. Please create a file named `critique.md` in the root folder of your repo and write whatever you think about the Driver Card. Tell us what you find good and what you would change. Give us an example on how your artistic side works.
 
 ## Part 2: Development Task
 
