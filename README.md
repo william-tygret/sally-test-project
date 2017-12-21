@@ -4,11 +4,19 @@ In the assets folder you will find the Adobe XD file and the screenshots (if you
 
 Please create a new branch with your name and push your updates in there.
 
-## Project structure
+Your assignment consists out of two tasks. The first one is design oriented while the second one is more development oriented.
+
+## Design / Critique
+
+Inside the Adobe XD file you will find a window called Observation. If you don't have Adobe XD you can open `./assets/Observation.png`. This is a UI component called Driver Card. We would love to see your 'designing skills'. But actually you don't have to design anything. Please create a file named `critique.md` in the root folder of your branch and write whatever you think about the Driver Card. Tell us what you find good and what you would change. Give us an example on how your artistic side works.
+
+## Development
+
+### Project structure
 
 We've already prepared everything you need to kickstart your project. The main dependencies like `radium` and `material-ui` are already set up. you can start write your code inside the `AppContainer` component which is in the `./src/components/templates/AppContainer/` folder.
 
-## What you need to know
+### What you need to know
 
 #### Component Structure
 
@@ -18,7 +26,7 @@ We're using `atomic design pattern` for structuring our React components. You ca
 
 Because of the usage of the `material-ui` library the best way for styling those components is via inline styles. Therefore to keep the styling consistent we're using the `radium` library which provides us with a more flexible way of styling components via inline styles. You can find more about `radium` [here](http://formidable.com/open-source/radium/).
 
-## Assignment
+### Assignment
 
 You will have to create a small CRUD application which will mainly consist of a table and a modal for editing the data. You can find the UI design in the assets folder (ops4-test-project.xd [Assignment window] or Assignment.png).
 
