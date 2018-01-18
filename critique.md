@@ -6,7 +6,7 @@
 * When expanded, the drop down titles (ie. Contact) should sit above the section rather than below
 * It the Contact -- I would personally push the "email" section under the address, I feel like emails and phone numbers are generally grouped together and it looks kind of weird to separate them with an address
 * Pipe Info seems pretty good
-* Docs section could have expandable links to PDFs or something like that so you wouldn't be cramming info into one section and givving it an unbalanced feel
+* Docs section could have expandable links to PDFs or something like that so you wouldn't be cramming too much info into one section and givving it an unbalanced feel
 * I would play with using some sort of accent color for the titles (phone, class, preferred name, etc.) the light grey kind of washes out. I would personally use a dark red/border-line maroon to kind of play off of the Red at the top and give the titles more weight. If you were trying to keep it to just one color though I would darken the grey on just the titles, it works for the section dividers.
 
 
